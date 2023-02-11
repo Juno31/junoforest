@@ -1,5 +1,5 @@
 //Styles
-import '../global.css'
+import 'styles/global.css'
 
 interface ReactComponent {
     Component: React.FC
